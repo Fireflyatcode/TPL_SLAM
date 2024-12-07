@@ -8,4 +8,5 @@ References
 [3]I. Suarez, J. M. Buenaposada, and L. Baumela, “ELSED: Enhanced line segment drawing,” Pattern Recognit., vol. 127, p. 108619, Jul. 2022.
 
 Acknowledgements
+
 Thanks VINS-Fusion, PL-VINS, EPLF-VINS, and ELSED. The code is modified based on their excellent open-source work.
